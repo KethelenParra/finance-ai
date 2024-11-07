@@ -16,5 +16,4 @@ const TransactionsPage = async () => {
     </div>
   );
 };
-
 export default TransactionsPage;
